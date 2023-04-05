@@ -24,15 +24,15 @@
 
     @font-face {
         font-family: 'AnchorageRegular';
-        src: url('/style/fonts/AnchorageRegular.eot?#iefix') format('embedded-opentype'),  url('/style/fonts/AnchorageRegular.otf')  format('opentype'),
-               url('/style/fonts/AnchorageRegular.woff') format('woff'), url('/style/fonts/AnchorageRegular.ttf')  format('truetype');
+        src: url('/style/fonts/AnchorageRegular.eot?#iefix') format('embedded-opentype'), url('/style/fonts/AnchorageRegular.otf') format('opentype'),
+               url('/style/fonts/AnchorageRegular.woff') format('woff'), url('/style/fonts/AnchorageRegular.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
       }
 
     @font-face {
         font-family: 'TokyoDreams-Regular';
-        src: url('/style/fonts/TokyoDreams-Regular.woff') format('woff'), url('/style/fonts/TokyoDreams-Regular.otf')  format('opentype');
+        src: url('/style/fonts/TokyoDreams-Regular.woff') format('woff'), url('/style/fonts/TokyoDreams-Regular.otf') format('opentype');
         font-weight: normal;
         font-style: normal;
         font-display: swap;
